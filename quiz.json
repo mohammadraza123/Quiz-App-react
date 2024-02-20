@@ -82,8 +82,6 @@
       },
       {
         "title": "CSS",
-        "icon": "/icon-css.svg",
-        "iconbg": "#E0FDEF",
         "questions": [
           {
             "question": "What does CSS stand for?",
@@ -159,8 +157,6 @@
       },
       {
         "title": "JavaScript",
-        "icon": "/icon-js.svg",
-        "iconbg": "#EBF0FF",
         "questions": [
           {
             "question": "Which syntax is correct to output 'Hello World' in an alert box?",
